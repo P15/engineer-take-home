@@ -1,4 +1,7 @@
 # PHOSPHORUS Software Engineer Take-home test
+## requirements
+- Linux or MacOS
+- Docker
 
 ### Docker container build sequence
 1. build the docker containers with `docker-compose build`
