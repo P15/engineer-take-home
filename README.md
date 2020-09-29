@@ -10,8 +10,8 @@
 
 
 ### NOTE
-app runs on port 3000 by default
-psql DB runs on port 5432 by default
+App runs on port 3000 by default
+PostgreSQL DB runs on port 5432 by default
 
 
 ### Instructions
@@ -21,7 +21,8 @@ psql DB runs on port 5432 by default
 - In this stage, you are free to build the app however you please.
 - You can build it in Rails or with other front-end frameworks if you please (React, Vue, Angular, etc.)
 - If you choose to use a front-end framework, the setup will fall on you to complete.
-- You have 2 days to complete this project and when you are complete, you will follow the below instructions to export it to a zip file.
+- You have 2 days to complete this project.
+- When you are complete, you will follow the below instructions to export it to a zip file.
 
 ### Zipping project when complete
 1. Run the following command `git archive --format zip --output /path/to/zipfile.zip HEAD`
