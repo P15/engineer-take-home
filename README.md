@@ -21,7 +21,7 @@ PostgreSQL DB runs on port 5432 by default
 - In this stage, you are free to build the app however you please.
 - You can build it in Rails or with other front-end frameworks if you please (React, Vue, Angular, etc.)
 - If you choose to use a front-end framework, the setup will fall on you to complete.
-- You have 2 days to complete this project.
+- You have 72 hours to complete this project.
 - When you are complete, you will follow the below instructions to export it to a zip file.
 
 ### Zipping project when complete
